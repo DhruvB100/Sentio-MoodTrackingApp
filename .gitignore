@@ -54,3 +54,8 @@
 **/hs_err_pid*
 **/replay_pid*
 .DS_Store
+
+**/google-services.json
+**/secrets.xml
+**/secrets.properties
+local.properties
